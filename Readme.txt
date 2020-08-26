@@ -1,1 +1,5 @@
-Visual Studio Code를 이용한 Vue shop project입니다.
+프로젝트 이름: Shop
+사용 기술: Vue.js
+프로젝트 내용: Vue.js를 이용한 미니프로젝트로 상품 화면(상세정보, 필터링), 구매, 장바구니 등을 구현하였습니다.
+프로젝트 기간: 약 1~2달
+참고: Vue.js 2.X by Example
